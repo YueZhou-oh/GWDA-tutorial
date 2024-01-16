@@ -3,7 +3,7 @@
 # -- Project information
 
 project = 'GWDA'
-copyright = '2024, xxx'
+copyright = '2024, Yue Zhou, Tianyu Zhao'
 author = 'Yue Zhou, Tianyu Zhao'
 
 release = '0.1'
